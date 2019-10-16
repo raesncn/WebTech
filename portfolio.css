@@ -1,0 +1,52 @@
+h1{
+	color: black;
+	font-family: Amatic SC;
+	font-size: 500%;
+	margin-top: 1%;
+	margin-right: 18%;
+}
+
+h2{
+	color: black;
+	font-family: Amatic SC;
+	font-size: 250%;
+	margin-top: -5%;
+	margin-left: 10%;
+}
+
+.style {
+	color: black;
+	font-family: Amatic SC;
+	font-size: 150%;
+}
+
+body, html {	
+	background-image: url("gurl.png");
+	background-position: center;
+	background-repeat: repeat-y;
+	background-size: cover;
+	height: 100%;
+	width: 100%;	
+}
+
+.gallery {
+	font-family: Amatic SC;
+	color: black;
+	font-size: 300%;
+	padding-right: 5px;
+	padding-left: 15px;
+}
+
+a:hover {
+	background-color: #ffc8e3;
+}
+
+.banner {
+	background-image: url ("../banner.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	opacity: 50%;
+}
